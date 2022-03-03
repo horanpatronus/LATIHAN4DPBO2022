@@ -18,7 +18,7 @@ Vehicle terdiri atas atribut:
 Ship terdiri atas atribut:
 - age
 - type
-- - countryOfManufacture
+- countryOfManufacture
 
 Person terdiri atas atribut:
 - NIK
