@@ -41,3 +41,11 @@ Program dibuat ke dalam bahasa Python.
 Seluruh atribut merupakan atribut private. Data dimasukkan ke dalam object menggunakan setter. Data yang terdapat di dalam object selanjutnya dicetak sebagai output menggunakan method.
 
 #### Tampilan Program
+
+![1](https://user-images.githubusercontent.com/91965618/156534368-c602306f-4b45-49c7-a87a-aece936b51d4.png)
+
+![2](https://user-images.githubusercontent.com/91965618/156534383-2da6fa0d-5f70-41bf-b4eb-c0cd6f430667.png)
+
+![3](https://user-images.githubusercontent.com/91965618/156534387-73c17222-65dc-48ff-ad1d-72b30ce9e6eb.png)
+
+![4](https://user-images.githubusercontent.com/91965618/156534396-d0d20b3a-b189-4f9b-8fed-63508a95686b.png)
